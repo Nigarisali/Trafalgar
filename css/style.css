@@ -289,7 +289,7 @@ table {
 }
 
 .btn2 {
-  margin-top: 70px;
+  margin-top: 35%;
   margin-left: 90px;
   border-radius: 40px;
   padding: 10px;
@@ -298,11 +298,14 @@ table {
   background-color: transparent;
   color: #458FF6;
 }
+.section6{
+  margin-top: 20%;
+}
 
 .section3 {
   display: flex;
   justify-content: space-between;
-  margin-top: 80px;
+  margin-top: 20%;
 }
 
 .sc3 h1 {
@@ -319,7 +322,7 @@ table {
 }
 
 .section4 {
-  margin-top: 90px;
+  margin-top: 15%;
 }
 
 .h1_4 {
@@ -335,8 +338,15 @@ table {
   line-height: 48px;
 }
 
-.btn2 {
-  margin-left: 100px;
+.btn5 {
+  margin-top: 35%;
+  margin-left: 45%;
+  border-radius: 40px;
+  padding: 10px;
+  width: 150px;
+  border: solid #458FF6;
+  background-color: transparent;
+  color: #458FF6;
 }
 
 .h1_5 {
@@ -376,25 +386,30 @@ table {
 .Edward{
   border-radius: 70px;
   border: solid #FFFFFF;
+  margin-left: 100px;
 }
 .p_6{
   font-weight: 700;
   font-size: 22px;
   line-height: 48px;
   color: #FFFFFF;
-  
+margin-right: 100px;
+
 }
-.ic{
-  display: flex;
-  justify-content: space-between;
-}
+
 .p_5 {
   font-weight: 400;
   font-size: 19px;
   line-height: 30px;
   color: rgb(255, 255, 255, 0.9);
-}
 
+}
+.p_7{
+  font-weight: 400;
+font-size: 18px;
+line-height: 48px;
+color: rgb(255, 255, 255, 0.85);
+}
 .divv1 {
   margin-top: 50px;
   width: 369px;
@@ -447,16 +462,31 @@ table {
 .button_center {
   text-align: center;
 }
+footer {
+  background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+  margin-top: 10%;
+  padding: 70px;
+  display: flex;
+  justify-content: space-between;
+  
+}
 
+footer img {
+  width: 40px;
+  height: 40px;
+}
 
+footer p {
+  color: #FFFFFF;
+}
 
+footer h1 {
+  font-weight: 700;
+font-size: 20px;
+line-height: 60px;
+color: #FFFFFF;
+}
 
-
-
-
-
-
-
-.footer {
-  margin-top: 100px;
+.trafalgar {
+  margin-left: 5px;
 }
